@@ -1,0 +1,13 @@
+/target
+.run/
+.idea/
+venv/
+*.pyc
+.vscode/settings.json
+.tox
+pytest_results.xml
+*.env
+!tools/**/*.env
+.coverage
+coverage-reports/
+.pytest_cache
