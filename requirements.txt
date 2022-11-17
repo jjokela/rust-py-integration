@@ -1,0 +1,12 @@
+attrs==22.1.0
+colorama==0.4.6
+exceptiongroup==1.0.4
+iniconfig==1.1.1
+maturin==0.13.7
+packaging==21.3
+pluggy==1.0.0
+py-cpuinfo==9.0.0
+pyparsing==3.0.9
+pytest==7.2.0
+pytest-benchmark==4.0.0
+tomli==2.0.1
